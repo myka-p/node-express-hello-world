@@ -4,7 +4,7 @@ cpnt201 - Achievements Round 2 NPM (2/2)
 author: Myka Peligrino
 
 ## Creating a directory and package installation
-Using the instructions, I've followed the steps on the [Getting Started Guide] (https://expressjs.com/en/starter/installing.html). 
+Using the instructions, I've followed the steps on the [Getting Started Guide](https://expressjs.com/en/starter/installing.html). 
 1. Instead of making a local directory. I've imported the one that I have created in GitHub. I then cloned it to my local workspace.
 2. Next, I created a `package.json` using the `$ npm init` command.
 3. I just followed the default prompts and filled some areas.
